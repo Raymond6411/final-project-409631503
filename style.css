@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: bisque;
+}
+
+.headertext {
+  padding-left: 20px;
+  font-size: 2rem;
+}
+
+.header {
+  padding-left: 20px;
+}
+
+.footer {
+  text-align: end;
+}
